@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+# Ex04 Places Around Me.
 ## Date: 24.04.2025
 
 ## AIM
